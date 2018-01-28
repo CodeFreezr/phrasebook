@@ -1,4 +1,6 @@
 # phrasebook
+
+[![Go Report Card](https://goreportcard.com/badge/github.com/CodeFreezr/phrasebook)](https://goreportcard.com/report/github.com/CodeFreezr/phrasebook)  
 This is a mirror for the codes out of the Book: "The Go Programming Language Phrasebook" (2012) from David Chisnall.  
 
 Please visit:  
